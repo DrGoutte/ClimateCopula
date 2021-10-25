@@ -1,17 +1,17 @@
 # ClimateCopula
 
-% Copyright
-%%%%%%%%%%%
-% This main code was written by 
-% O.Damette BETA, Université de Lorraine 
-% S.Goutte CEMOTEV, Université Paris-Saclay
-% Please cite this paper if you use this code:
 
-% Olivier Damette & Stephane Goutte & Qing Pei, 2020. 
-% "Climate and nomadic migration in a nonlinear world: 
-% evidence of the historical China," Climatic Change, Springer, vol.163(4),pages 2055-207.
-%
-%
+ Copyright
+%%%%%%%%%%%
+ This main code was written by 
+ O.Damette BETA, Université de Lorraine 
+ S.Goutte CEMOTEV, Université Paris-Saclay
+ Please cite this paper if you use this code:
+
+ Olivier Damette & Stephane Goutte & Qing Pei, 2020. 
+ "Climate and nomadic migration in a nonlinear world: evidence of the historical China," Climatic Change, Springer, vol.163(4),pages 2055-207.
+
+
 % Needs the Patton Copula Toolbox which can be downloaded
 % from http://public.econ.duke.edu/~ap172/Patton_copula_toolbox.zip
 % This toolbox is a collection of Matlab functions on copulas for financial

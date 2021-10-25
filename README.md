@@ -1,7 +1,7 @@
 # ClimateCopula
 
 
- Copyright
+Copyright
 %%%%%%%%%%%
  This main code was written by 
  O.Damette BETA, Université de Lorraine 
